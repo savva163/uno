@@ -40,6 +40,9 @@ Rick WIN!!
 
 ## Пример save-файла:
 ```
-{"cube":"5 2 6",
-"players":"[{"name":"Bob", "layer":"6"}, {"name":"Rick", "layer":"5"}]}
+{
+  "cubes": "5 2 6",
+  "players": ["Bob", "Rick"],
+  "player1": "Bob"
+}
 
